@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quick Form</title>
+</head>
+<body>
+<h3>Please use the form below to sign up for exam</h3>
+<form action="/signup" method="post">
+    <dl>
+        <dt>Please enter your full name:
+        <dd><input type="text" name="fullName" id="noName">
+
+            {% if noName %}
+            <p><strong>Error : </strong> {{ noName }}</p>
+            <script>
+                noName = document.getElementById("noName");
+                noName.style.backgroundColor = "red";
+            </script>
+            {% endif %}
+
+        <dt>Please enter the subject:
+        <dd><input type="text" name="subject" id="noSubject">
+
+            {% if noSubject %}
+            <p><strong>Error : </strong> {{ noSubject }}</p>
+            <script>
+                noSubject = document.getElementById("noSubject");
+                noSubject.style.backgroundColor = "red";
+            </script>
+            {% endif %}
+
+    </dl>
+
+    <input type="submit" name="Signup" value="Signup">
+    <input type="submit" name="Signup" value="Reset">
+
+</form>
+
+</body>
+</html>

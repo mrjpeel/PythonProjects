@@ -1,0 +1,15 @@
+FIRST
+
+print out each stage of the sort.
+    CLUE:  Where is the swap/sort made in the code?
+
+SECOND
+
+change the test to all the user to enter a list of numbers
+that they want sorting
+    CLUE: input takes a string.
+
+    You can add elements to a list using .append()
+
+    Do you need to ask how many numbers in the list
+    so that you know how many times to loop?

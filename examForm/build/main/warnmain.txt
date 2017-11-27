@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named posix - imported by os, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named _posixsubprocess - imported by subprocess, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named 'org.python' - imported by pickle, N:\j.peel\My Documents\Python\examForm\main.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, N:\j.peel\My Documents\Python\examForm\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named _winreg - imported by platform, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named 'java.lang' - imported by platform, N:\j.peel\My Documents\Python\examForm\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named termios - imported by tty, N:\j.peel\My Documents\Python\examForm\main.py, getpass
+missing module named grp - imported by tarfile, shutil, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, N:\j.peel\My Documents\Python\examForm\main.py, netrc, getpass
+missing module named ce - imported by os, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named _dummy_threading - imported by dummy_threading, N:\j.peel\My Documents\Python\examForm\main.py
+missing module named org - imported by copy, N:\j.peel\My Documents\Python\examForm\main.py

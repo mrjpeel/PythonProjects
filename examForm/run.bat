@@ -1,0 +1,1 @@
+pyuic5.bat -x design.ui -o wartest.py

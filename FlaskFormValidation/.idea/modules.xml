@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FLASK.iml" filepath="$PROJECT_DIR$/.idea/FLASK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/GoogleDrive Sync.iml" filepath="$PROJECT_DIR$/../.idea/GoogleDrive Sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GoogleDrive Sync/fromHdrive/sortingyr9/.idea/sortingyr9.iml" filepath="$PROJECT_DIR$/../GoogleDrive Sync/fromHdrive/sortingyr9/.idea/sortingyr9.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
