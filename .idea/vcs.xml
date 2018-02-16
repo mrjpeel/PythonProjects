@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/git_test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/openCV" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/primeTime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../thursdaycodeclub" vcs="Git" />
+    <mapping directory="N:\j.peel\My Documents\PYTHON\Games\PyQt5-Tic-Tac-Toe" vcs="Git" />
   </component>
 </project>
